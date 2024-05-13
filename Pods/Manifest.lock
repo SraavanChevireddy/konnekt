@@ -1,0 +1,16 @@
+PODS:
+  - MastercardOpenBankingConnect (3.0.1)
+
+DEPENDENCIES:
+  - MastercardOpenBankingConnect
+
+SPEC REPOS:
+  trunk:
+    - MastercardOpenBankingConnect
+
+SPEC CHECKSUMS:
+  MastercardOpenBankingConnect: f62110cee83da0a5965ea2fe55beacf77243527b
+
+PODFILE CHECKSUM: 54c25853072e7595a56ec636e987466362e51079
+
+COCOAPODS: 1.15.2
